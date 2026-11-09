@@ -172,4 +172,3 @@ else:
 st.divider()
 st.caption("Built with Python, Pandas, Streamlit, CountVectorizer, TF-IDF, Cosine Similarity, and KNN.")
 
-streamlit\npandas\nscikit-learn\n
